@@ -1,0 +1,119 @@
+<!--Note:The template file will be copied to a new file. When you change the code of the template file you can create new file with this base code. -->
+<html>
+<title>Www.David eli./226012031.com</title>
+  <body style ="background-color : orange " >
+  <center>
+  <h1> welcome to David Eli web  <p> 
+  <input placeholder =" Www.DAVID ELI/226012031\.COM"<p>
+  <h3>please we need your information <p>
+  
+  
+ <img src="IMG _5410">
+  
+  
+   Your full Name ? <br>
+   <input type = "yournamemr."><br><br><p>
+   your Address ? <br>
+   <input type ="text"name ="address"><br><br>
+   Date of Birth <br>
+  <input type ="text"name ="your Date of Birth"><br> <br>
+   <select name = "month ">choose month
+   <option value = " TODAY DATE" >TODAY DATE<p>
+   <option value =" January "> January 
+   <option value ="February ">February 
+    <option value ="Mach ">mach
+     <option value ="April ">April 
+      <option value ="may ">may
+ <option value ="June ">june
+  <option value ="July ">July 
+    <option value ="August ">August 
+        <option value ="September ">September 
+       <option value ="October ">October 
+     <option value ="November ">November 
+     <option value ="the last month ">
+   <select >
+   <select name="Days"
+   <option value ="DAYS">DAYS <p>
+   <option value ="1">1</option>
+   <option value ="1">1</option>  
+   <option value ="2">2</ option>
+    <option value ="3">3</option>
+      <option value ="4">4</option >
+        <option value ="5">5</option>
+<option value ="6">6</option>
+<option value ="7">7</option>
+<option value ="8">8</option>
+<option value ="9">9</option>
+<option value ="10">10</option>
+<option value ="11">11</option>
+<option value ="12">12</option>
+<option value ="13">13</option>
+<option value ="14">14</option>
+<option value ="15">15</option>
+<option value ="16">16</option>
+<option value ="17">17</option>
+<option value ="18">18</option>
+<option value ="19">19</option>
+<option value ="20">20</option>
+<option value ="21">21</option>
+<option value ="22">22</option>
+<option value ="23">23</option>
+<option value ="24">24</option>
+<option value ="25">25</option>
+<option value ="26">26</option>
+<option value ="27">27</option>
+<option value ="28">28</option>
+<option value ="29">29</option>
+<option value ="30">30</option>
+<option value ="31">31</option>
+
+
+
+
+
+   <h2 >so how can we help you ?</h2>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+   <input type ="in box "= "+232-080-17-82-25"
+   
+   
+  
+   
+   
+        <h4>This is my WhatsApp number below  <h4>
+        <p>+232 080-17-82-25
+        <h2>can yiu= write yours below<h2>
+        
+        
+        
+        
+        
+        
+        
+        <button >NEXT
+        <input button style ="next web page"
+        <input button ="Next page"
+        
+        
+    
+        
+        
+        
+        
+        
+        
+        
+    </body>
+</html>
+
+ *My favorite app::html+css+js  https://itunes.apple.com/app/id908054939?mt=8
+Other's Tutorals:http://iii9i.com
